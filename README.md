@@ -1,4 +1,4 @@
-# gnone-open-new-tab
+# gnome-open-new-tab
 
 ## Auto Open gnome Tabs execute relative Command
 
